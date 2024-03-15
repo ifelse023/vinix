@@ -18,7 +18,6 @@ require("lazy").setup({
 
     { "williamboman/mason-lspconfig.nvim", enabled = false },
     { "williamboman/mason.nvim", enabled = false },
-    { "folke/neoconf.nvim", enable = false },
     { import = "plugins" },
   },
   defaults = {

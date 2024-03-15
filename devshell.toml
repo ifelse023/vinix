@@ -1,0 +1,7 @@
+# https://numtide.github.io/devshell
+
+[devshell]
+packages = [
+  "stylua",
+  "sumneko-lua-language-server"
+]
